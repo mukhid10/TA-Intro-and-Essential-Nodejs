@@ -1,0 +1,12 @@
+1. Node.js adalah runtime environment untuk JavaScript yang bersifat open-source dan
+ cross-platform. Dengan Node.js kita dapat menjalankan kode JavaScript di mana pun, 
+ tidak hanya terbatas pada lingkungan browser.
+
+ Javascript adalah bahasa pemrograman. Node.js adalah runtime
+
+ 2.Node.js dibangun di atas mesin V8 Google. Ini adalah mesin javascript tercepat. Mesin V8
+  mengubah kode javascript menjadi kode mesin yang benar-benar dipahami oleh komputer. Hasilnya
+   kemudian dibuat dan dikembalikan ke node.js. Node.js tidak dapat memahami kode javascript yang
+    kita tulis tanpa V8. Selain javascript, V8 juga menggunakan C ++.
+
+3.
